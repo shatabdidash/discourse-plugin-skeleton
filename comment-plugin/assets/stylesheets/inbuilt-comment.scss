@@ -1,0 +1,16 @@
+/* Style for the inbuilt comment container */
+.inbuilt-comment-container {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    display: none; /* Hide the comment container by default */
+  }
+  
+  /* Style for the show/hide button */
+  .show-hide-button {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+  }
+  
